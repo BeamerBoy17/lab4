@@ -1,0 +1,8 @@
+﻿  Matrix_graph.cpp
+  Source.cpp
+C:\Users\tront\source\repos\lab4\Source.cpp(12,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tront\source\repos\lab4\Source.cpp(24,20): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tront\source\repos\lab4\Source.cpp(46,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tront\source\repos\lab4\Source.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  labb4.vcxproj -> C:\Users\tront\source\repos\lab4\x64\Debug\labb4.exe
